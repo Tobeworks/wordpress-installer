@@ -1,7 +1,3 @@
-Natürlich! Hier ist die deutsche README.md mit der gleichen Inhalt:
-
----
-
 # Installationsskript für WordPress
 
 Dieses Skript automatisiert die Installation von WordPress, WooCommerce und zusätzlichen Plugins auf einem Server. Es verwendet das `wp-cli`-Tool zum Verwalten von WordPress-Installationsprozessen.
