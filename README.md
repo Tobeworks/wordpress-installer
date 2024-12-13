@@ -18,7 +18,7 @@ Dieses Skript automatisiert die Installation von WordPress, WooCommerce und zus√
 ### Adminkonfiguration
 
 - **Admin-Benutzername**: `admin`
-- **Admin-E-Mail**: `hallo@tobeworks.de`
+- **Admin-E-Mail**: `hallo@tobeworks.dev`
 - **Zweiter Admin-Benutzername**: `Test`
 - **Zweiter Admin-E-Mail**: `test@test.tdl`
 - **Fallback-Thema**: `twentytwentyfour`
